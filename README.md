@@ -26,4 +26,4 @@ Optimized model in order to achieve a target predictive accuracy higher than 75%
 
 ### Results
 
-See file 'CharityFund Model Optimization Report' for a summary of tuning, findings and results.  
+See file 'CharityFund Model Optimization Report' for a summary of hypertunings, findings and results.  
